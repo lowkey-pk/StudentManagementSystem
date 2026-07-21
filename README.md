@@ -1,2 +1,2 @@
 # Student Management System
-Developer A Version
+Developer A's Version

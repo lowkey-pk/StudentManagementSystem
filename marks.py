@@ -1,2 +1,4 @@
 # student.py
-print("Marks Module")
+
+def marks():
+    print("Marks Module")

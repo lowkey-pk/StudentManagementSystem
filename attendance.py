@@ -1,3 +1,4 @@
-# student.py
-print("Attendance Module")
-print("Hello")
+# attendance.py
+def mark_attendance():
+    print("Attendance Module")
+    print("Hello")
